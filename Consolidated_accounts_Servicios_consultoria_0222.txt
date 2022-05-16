@@ -1,0 +1,114 @@
+Root IDClass|Social Username|Main Attribute|SecAtt|ThiAtt|Catch|Status|Priority|Server|Reference Papers|Validation|String ID|email |Phoneinfoga|OSINT Scan|IP gather|Infringement Twitter**
+1R|@brozoxmiswebs | Control|Yes|FOUND|High Influence|Political publications|Done|862linxt353|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+2R|@CarlosLoret | Control|Yes|FOUND|High Influence|Casa Gris Research|Done|862linxt354|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+3R|@DrLorenzoMeyer | Control|Yes|FOUND|High Influence|Searching|Done|862linxt355|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+4R|@sergioaguayo | Control|Yes|FOUND|High Influence|Searching|Done|862linxt356|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+5R|@MXvsCORRUPCION | Control|Yes|FOUND|High Influence|Searching|Done|862linxt357|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+6R|@ChumelTorres | Analysis|Yes|FOUND|Influencer|High Influence|Searching|In progress|862linxt358|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+7R|@latinus_us | Analysis|Yes|FOUND|High Influence|Investigative Journalism|US|Searching|In progress|862linxt359|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+8S|@gibranrr | Analysis | Persuade (Same Source IP)|Yes|FOUND|Dissent|Searching|In progress|862linxt360|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+9S|@laishawilkins | Analysis|Yes|FOUND|High Influence|Legislative Pressure|Searching|In progress|862linxt361|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+10|Null|@lolo_andco | Analysis|No|FOUND|Null|Searching|In progress|862linxt362|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+11R|@latinus_us | Analysis|Yes|FOUND|Investigative Journalism|MX|Casa Gris Research|In progress|862linxt363|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+12S|@Viri_Rios | Analysis|Yes|FOUND|Investigative Journalism|Political publications|In progress|862linxt364|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+13R|@PelonGomis | Doxx | Analysis|Yes|FOUND|High Influence|Legislative Pressure|Searching|In progress|862linxt365|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Medium
+14A|@la_grenitas | Analysis|Yes|FOUND|Influencer|Searching|In progress|862linxt366|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Low
+15A|@linda_dimitrov | Analysis (Same Source IP)|Yes|FOUND|Political Disorder|Searching|In progress|862linxt367|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Low
+16A|@AXL__tw | Doxx | Analysis (Same Source IP)|Yes|FOUND|Political Disorder|Searching|In progress|862linxt368|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Medium
+17R|@mario_dico50 | Analysis|Yes|FOUND|Opinion Leader|Searching|In progress|862linxt369|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+18A|@aracelibs | Throw Down | Doxx | Persuade|Yes|FOUND|Political Disorder|Searching|In progress|862linxt370|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+19A|@GlodeJo07 | Analysis | Persuade|Yes|FOUND|High Influence|Legislative Pressure|Searching|In progress|862linxt371|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+20S|@MariettoPonce | Doxx | Analysis|Yes|FOUND|Legistative Pressure|Searching|In progress|862linxt372|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+21S|@macciudadano | Analysis|Yes|FOUND|Legistative Pressure|Searching|In progress|862linxt373|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+22A|@poisonJadeVine | Doxx | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt374|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+23A|@deniseramosm | Throw Down | Doxx|Yes|FOUND|Null|Searching|In progress|862linxt375|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+24A|@ReginadelC | Throw Down | Persuade (Same Source IP)|Yes|FOUND|Legistative Pressure|Searching|In progress|862linxt376|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+25A|@luis_gj | Throw Down | Analysis|Yes|FOUND|Legistative Pressure|Searching|In progress|862linxt377|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+26A|@DonVocero | Analysis | Doxx|Yes|FOUND|Legistative Pressure|Searching|In progress|862linxt378|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+27A|@ElAmaDeCasa1 | Throw Down|Yes|FOUND|Legistative Pressure|Searching|In progress|862linxt379|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+28S|@Funesta | Throw Down (Same Source IP)|Yes|FOUND|Political Disorder|Searching|In progress|862linxt380|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+29A|@RepDeFiFidonia | Analysis | Throw Down|Yes|FOUND|Political Disorder|Searching|In progress|862linxt381|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+30A|@PFifiona | Analysis | Throw Down|Yes|FOUND|Political Disorder|Searching|In progress|862linxt382|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+31A|@rthur_013 | Doxx | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt383|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+32S|@TioCommander | Throw Down | Analysis (Same Source IP)**|Yes|FOUND|Legistative Pressure|Searching|Done|862linxt384|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|High
+33S|@BaksAttack | Throw Down | Analysis (Same Source IP)**|Yes|FOUND|Null|Searching|Done|862linxt385|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|High
+34S|@ManadaPolitica | Throw Down | Doxx (Same Source IP)**|Yes|FOUND|Legistative Pressure|Searching|Done|862linxt386|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|High
+35S|@PKSsoy | Throw Down | Doxx (Same Source IP)**|Yes|FOUND|Legistative Pressure|Searching|Done|862linxt387|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|High
+36A|@Data_Wom | Doxx | Analysis|Yes|FOUND|Legistative Pressure|Searching|In progress|862linxt388|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Low
+37S|@EIJefeDiego | Throw Down|Yes|FOUND|Legistative Pressure|Searching|Done|862linxt389|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|High
+38S|@AXL_400 | Throw Down | Throw Down | Doxx (Same Source IP)**|Yes|FOUND|Legistative Pressure|Searching|In progress|862linxt390|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|High
+39R|@DonPorfifirio | Throw Down|Yes|FOUND|Legistative Pressure|Searching|In progress|862linxt391|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+40A|@Miruzha | Analysis | Persuade|Yes|FOUND|Political Disorder|Searching|In progress|862linxt392|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+41R|@JohnMAckermanm | Doxx | Persuade|Yes|FOUND|Political Disorder|Searching|In progress|862linxt393|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+42R|@azucenau | Control | Doxx | Analysis | Persuade (Same Source IP)|Yes|FOUND|Journalist|Political Disorder|Searching|In progress|862linxt394|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|++++++++++++++++++++|Analyzing
+43R|@vampipe | Doxx | Control | Analysis|Yes|FOUND|Digital Creator|High Influence|Searching|Done|862linxt395|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+44A|@emeequis | Doxx | Analysis|Yes|FOUND|Opinion Leader|Searching|In progress|862linxt396|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+45R|@NormaAcevesG | Control|Yes|FOUND|Political Disorder|Searching|In progress|862linxt397|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+46A|@JeSuisLaBOA | Throw Down | Doxx (Same Source IP)|Yes|FOUND|Political Disorder|Searching|In progress|862linxt398|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Medium
+47S|@_ryo_hermoso | Analysis | Doxx|Yes|FOUND|Opinion Leader|Searching|In progress|862linxt399|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+48S|@amormundi_ | Analysis | Doxx|Yes|FOUND|Investigative Journalism|Tula Research|In progress|862linxt400|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+49S|@nayeli786 | Analysys|Yes|FOUND|Dissent|Searching|In progress|862linxt401|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+50A|@AreliPaz | Doxx | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt402|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+51A|@bta_Demian | Doxx|Yes|FOUND|Legistative Pressure|Searching|In progress|862linxt403|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+52A|@VonXimena | Doxx|Yes|FOUND|Political Disorder|Searching|In progress|862linxt404|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+53A|@LicDante | Doxx | Analysis|Yes|FOUND|Null|Searching|In progress|862linxt405|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+54A|@josegrillosr | Throw Down | Doxx|Yes|FOUND|Political Disorder|Searching|In progress|862linxt406|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+55A|@martiriafelix | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt407|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+56A|@MrLotario | Throw Down | Doxx|Yes|FOUND|Political Disorder|Searching|In progress|862linxt408|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Medium
+57A|@RiosCorona222 | Doxx|Yes|FOUND|Political Disorder|Searching|In progress|862linxt409|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+58S|@jorgeisraelh | Doxx | Analysis|Yes|FOUND|Journalist|Political Disorder|Searching|In progress|862linxt410|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+59A|@RahulkMex | Doxx | Throw Down (Same Source IP)|No|FOUND|Political Disorder|Searching|In progress|862linxt411|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+60A|@GDLbu | Doxx|Yes|FOUND|Political Disorder|Searching|In progress|862linxt412|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+61S|@Monicao2712 | Analysis|No|FOUND|Dissent|Searching|In progress|862linxt413|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+62R|@isagvh | Doxx | Analysis|No|FOUND|Investigative Journalism|AIFA Research|Done|862linxt414|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+63S|@darpan_bodhi | Doxx | Analysis|No|FOUND|Legistative Pressure|Searching|In progress|862linxt415|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+64A|@l0rdAlexX | Throw Down | Doxx|No|FOUND|Political Disorder|Searching|In progress|862linxt416|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Low
+65A|@FrancoRox | Doxx | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt417|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+66A|@leogarciamx | Doxx | Analysis|Yes|FOUND|Null|Searching|In progress|862linxt418|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+67A|@lximenezfyvie | Doxx|Yes|FOUND|Political Disorder|Searching|In progress|862linxt419|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+68A|@Misha_MashallaH Analysis| Doxx|No|FOUND|Political Disorder|Searching|In progress|862linxt420|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+69A|@M2Cyndy | Analysis | Doxx|Yes|FOUND|Political Disorder|Searching|In progress|862linxt421|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+70S|@PiperThread | Control | Analysis|Yes|FOUND|Opinion Leader|Searching|In progress|862linxt422|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+71A|@OKDoKic | Doxx | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt423|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+72S|@macariomx | Doxx | Analysis|Yes|FOUND|Political Disorder|Searching|Done|862linxt424|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+73A|@sophia_ale | Doxx|Yes|FOUND|Political Disorder|Searching|Done|862linxt425|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+74S|@GMonroyEnergy | Control | Analysis|No|FOUND|Opinion Leader|Political Publications|In progress|862linxt426|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+75A|@raulmena70 | Doxx|Yes|FOUND|Null|Searching|In progress|862linxt427|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+76R|@dmorenochavez | Doxx | Analysis|Yes|FOUND|Investigative Journalism|Corruption investigations|Done|862linxt428|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+77A|@riaton_don | Throw Down | Doxx|Yes|FOUND|Political Disorder|Searching|In progress|862linxt429|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+78A|@JJDiazMachuca | Analysis|Yes|FOUND|Influencer|Searching|In progress|862linxt430|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+79S|@SalCamarena | Analysis|Yes|FOUND|Journalist|Searching|In progress|862linxt431|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+80R|@malamadremx | Analysis|No|FOUND|Journalist|Searching|In progress|862linxt432|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+81R|@CiroGomezL | Analysis | Control|Yes|FOUND|Journalist|Searching|Done|862linxt433|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+82R|@MaxKaiser75 | Control | Doxx|Yes|FOUND|Opinion Leader|Searching|Done|862linxt434|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+83R|@penileyramirez | Analysis|Yes|FOUND|Journalist|Searching|Done|862linxt435|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+84R|@AngelVerdugoB | Analysis|Yes|FOUND|Opinion Leader|Searching|Done|862linxt436|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+85R|@CiroMurayamaINE | Analysis | Control|Yes|FOUND|Opinion Leader|Searching|Done|862linxt437|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+86R|@MLopezSanMartin | Analysis|Yes|FOUND|Investigative Journalism|Political Publications|Done|862linxt438|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+87R|@beltrandelrio | Analysis|Yes|FOUND|Investigative Journalism|Political Publications|In progress|862linxt439|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+88R|@pedroferriz3 | Control | Analysis|Yes|FOUND|Opinion Leader|Searching|In progress|862linxt440|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+89R|@hdemauleon | Control | Doxx|Yes|FOUND|Investigative Journalism|Political Publications|In progress|862linxt441|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+90A|@avieu | Analysis|Yes|FOUND|Digital Creator|Searching|In progress|862linxt442|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+91A|@IrvingGatell | Analysis|Yes|FOUND|Opinion Leader|Searching|In progress|862linxt443|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+92A|@KatuArkonada | Control | Analysis | Persuade (Same Source IP)|Yes|FOUND|Dissent|Searching|In progress|862linxt444|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+93A|@ferbelaunzaran | Control | Analysis|Yes|FOUND|Journalist|Searching|In progress|862linxt445|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+94|@ChairosY | Doxx | Throw Down|Yes|FOUND|Legistative Pressure|Political Disorder|Searching|In progress|862linxt446|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+95A|@chavodeltoro | Analysis|Yes|FOUND|Digital Creator|Searching|In progress|862linxt447|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+96|@CartonCalderon | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt448|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+97A|@JLozanoA | Control | Analysis|Yes|FOUND|Political Disorder|Searching|Done|862linxt449|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+98R|@gustavomaciasz | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt450|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+99R|@alexisgaminomx | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt451|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+100R|@MauroGarzaMarin | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt452|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+101R|@kenialopezr | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt453|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+102R|@XochitlGalvez | Analysis|No|FOUND|Political Disorder|Searching|In progress|862linxt454|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+103S|@lpazosp | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt455|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+104A|@champsanchez | Analysis|No|FOUND|Digital Creator|Searching|In progress|862linxt456|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+105S|@analucia_medina | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt457|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+106A|@Fifirulais3030 | Doxx | Throw Down|Yes|FOUND|Political Disorder|Searching|In progress|862linxt458|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Medium
+107|Null|@LaloUrbanoM | Analysis|No|FOUND|Null|NotFound|Searching|In progress|862linxt459|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+108A|@IrvingPineda | Analysis|Yes|FOUND|Journalist|Searching|In progress|862linxt460|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+109A|@memobarba | Analysis|Yes|FOUND|Political Disorder|Searching|In progress|862linxt461|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+110A|@PortillogMayra | Analysis|No|FOUND|Political Disorder|Searching|In progress|862linxt462|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+111A|@LaloUrbanoM | Analysis | Doxx|Yes|FOUND|Influencer|Mx|Searching|In progress|862linxt463|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+112A|@UnnaTuitera | Doxx|No|FOUND|Political Disorder|Searching|In progress|862linxt464|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
+113S|@Hortacha_Qro | Doxx | Analysis (Same Source IP)|Yes|FOUND|Political Disorder|Searching|In progress|862linxt465|+++++++++++++++++++++++++|+++++++++++++++++++++++++|Enabled|+++++++++++++++++++++++++|Analyzing
